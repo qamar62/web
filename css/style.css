@@ -9,10 +9,19 @@
     }
 
 .card {
+      margin: 5px;
       border-radius: 35px;
+      box-shadow: 1px 1px 24px -15px rgba(0, 0, 0, .52);
     }
 
 .card-img-top {
       border-radius: 25px;
       margin-top: 10px;
+      box-shadow:  0 4px 8px 1px rgba(0,0,0,.52)
     }
+    .checked {
+        color: #0056ae;
+      }
+      .card p {
+          font-size: 12px;
+      }
