@@ -41,3 +41,10 @@ h3 {
 .fa-stack{
     color : #0056ae;
 }
+.img-icon {
+  width: 10%;
+  height: auto;
+  border : solid 1px;
+  border-color: #0056ae;
+  border-radius:50%;
+  margin-left: 5px;
