@@ -1,55 +1,50 @@
-
 body {
-  background-color: rgba(255, 255, 255, 0.897);
-}
+  background-color: rgba(255, 255, 255, 0.897); }
+
 h3 {
-  color: #0056ae;
-}
+  color: #0056ae; }
+
 .carousel-inner img {
-      width: 100%;
-      height: auto;
-    }
+  width: 100%;
+  height: auto; }
 
 .navbar {
-      box-shadow: 1px 1px 24px -15px rgba(0, 0, 0, .52);
-    }
+  box-shadow: 1px 1px 24px -15px rgba(0, 0, 0, 0.52); }
 
 .card {
-      margin: 5px;
-      border-radius: 35px;
-      box-shadow: 1px 1px 24px -15px rgba(0, 0, 0, .52);
-    }
+  margin: 5px;
+  border-radius: 35px;
+  box-shadow: 1px 1px 24px -15px rgba(0, 0, 0, 0.52); }
 
 .card-img-top {
-      border-radius: 25px;
-      margin-top: 10px;
-      box-shadow:  0 4px 8px 1px rgba(0,0,0,.52)
-    }
-    .checked {
-        color: green;
-      }
+  border-radius: 25px;
+  margin-top: 10px;
+  box-shadow: 0 4px 8px 1px rgba(0, 0, 0, 0.52); }
 
-      .card p {
-          font-size: 12px;
-      }
-      .btn {
-        box-shadow:  0 4px 0px 0px #adaeaf
-      }
-     .row.icons img {
-       width: 25%; height: auto;
-     }
-.fa-stack{
-    color : #0056ae;
-}
+.checked {
+  color: green; }
+
+.card p {
+  font-size: 12px; }
+
+.btn {
+  box-shadow: 0 4px 0px 0px #adaeaf; }
+
+.row.icons img {
+  width: 25%;
+  height: auto; }
+
+.fa-stack {
+  color: #0056ae; }
+
 .img-icon {
   width: 10%;
   height: auto;
-  border : solid 1px;
+  border: solid 1px;
   border-color: #0056ae;
-  border-radius:50%;
-  margin-left: 5px;
-}
-.heading {
-  border:solid 1px;
-  border-radius: 15px;}
+  border-radius: 50%;
+  margin-left: 5px; }
 
+.heading {
+  border: solid 1px;
+  border-radius: 15px; }
