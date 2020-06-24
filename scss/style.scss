@@ -56,7 +56,7 @@ body {
     border:solid 1px;
     border-radius: 15px;}
     
-  @media screen and (max-width: 768px)
+  @media only screen and (max-width: 768px)
   {
     .display-4 {
                   font-size: 25px;
